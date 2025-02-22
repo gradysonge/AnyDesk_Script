@@ -2,7 +2,7 @@
 
 ## **⚠️ Avertissement**
 
-Ce script est strictement destiné à des **tests de sécurité et audits dans un cadre autorisé**. L'utilisation de ce script **sans consentement explicite** constitue une infraction à la loi dans de nombreux pays.
+Ce script est strictement destiné à des **tests de sécurité et audits dans un cadre autorisé** et academique par rapport a mes cours de cybersecurité.. L'utilisation de ce script **sans consentement explicite** constitue une infraction à la loi dans de nombreux pays et je n'pas crée ce script dans de but malveillants.
 
 ---
 
@@ -112,13 +112,10 @@ Ce script PowerShell permet :
 
 ## **🎉 Conclusion**
 
-Ce script illustre comment un attaquant pourrait utiliser AnyDesk pour créer une **backdoor discrète**. Les administrateurs systèmes doivent être conscients de ces techniques pour mieux protéger leur infrastructure.
-
-🔗 **Conseil :** Toujours surveiller les logiciels d'accès distant et restreindre leur usage à des machines autorisées.
-
+cela demontr comment un attaquant pourrait utiliser AnyDesk pour créer une **backdoor discrète**. 
 ---
 
 ## **✉ Contact & Support**
 
-Si vous avez des questions sur ce test de sécurité, contactez l'équipe IT en charge de l'audit.
+Si vous avez des questions sur cela , contactez moi sur telegram ou sur X .
 
