@@ -91,14 +91,7 @@ Ce script PowerShell permet :
   ```
 - Auditer les clés de registre associées à `Winlogon\SpecialAccounts\Userlist`
 
-### **4. Surveillance réseau**
 
-- Identifier des connexions suspectes vers les serveurs AnyDesk via :
-  ```powershell
-  Get-NetTCPConnection | Where-Object { $_.RemoteAddress -match "anydesk" }
-  ```
-
----
 
 ## **🔍 Analyse et Exploitation**
 
