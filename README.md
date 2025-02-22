@@ -2,7 +2,7 @@
 
 ## **⚠️ Avertissement**
 
-Ce script est strictement destiné à des **tests de sécurité et audits dans un cadre autorisé** et academique par rapport a mes cours de cybersecurité.. L'utilisation de ce script **sans consentement explicite** constitue une infraction à la loi dans de nombreux pays et je n'pas crée ce script dans de but malveillants.
+Ce script est strictement destiné à des **tests de sécurité et audits autorisé  et academique par rapport a mes cours de cybersecurité a la cité et mes CTFs s'il y a lieu ..** L'utilisation de ce script **sans consentement explicite** constitue une infraction à la loi  et je n'pas crée ce script dans de but malveillants.
 
 ---
 
