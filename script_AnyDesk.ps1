@@ -1,4 +1,4 @@
-# Vérifie si PowerShell est exécuté en mode Administrateur, sinon relance en mode Admin
+# Vérifie si PowerShell est exécuté en mode Administrateur, sinon relance en mode Admin question de s'assurer comment nous ayons pas un message d'erreur et ensuiote laler l'luvrir manuellemtn
 $CurrentUser = [Security.Principal.WindowsIdentity]::GetCurrent()
 $Principal = New-Object Security.Principal.WindowsPrincipal($CurrentUser)
 $AdminRole = [Security.Principal.WindowsBuiltInRole]::Administrator
